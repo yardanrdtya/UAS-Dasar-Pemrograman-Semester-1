@@ -1,0 +1,183 @@
+{
+    "vouchers": {
+        "COC10": {
+            "discount": 100,
+            "valid": false,
+            "kadaluwarsa": "2024-12-31"
+        },
+        "COC20": {
+            "discount": 200,
+            "valid": false,
+            "kadaluwarsa": "2024-12-31"
+        },
+        "COC30": {
+            "discount": 300,
+            "valid": false,
+            "kadaluwarsa": "2024-12-31"
+        }
+    },
+    "items": {
+        "pagi": {
+            "Biasa": {
+                "Gold Mine": {
+                    "gold": 500,
+                    "gems": 50
+                },
+                "Elixir Collector": {
+                    "gold": 700,
+                    "gems": 70
+                },
+                "Army Camp": {
+                    "gold": 800,
+                    "gems": 80
+                },
+                "Barracks": {
+                    "gold": 1200,
+                    "gems": 120
+                },
+                "Dark Elixir Drill": {
+                    "gold": 1500,
+                    "gems": 150
+                },
+                "Spell Factory": {
+                    "gold": 1000,
+                    "gems": 100
+                }
+            },
+            "VIP": {
+                "Builder Hut": {
+                    "gold": 2000,
+                    "gems": 200
+                },
+                "Gold Pass": {
+                    "gold": 1500,
+                    "gems": 150
+                },
+                "Clan Castle": {
+                    "gold": 2500,
+                    "gems": 250
+                },
+                "Spell Factory": {
+                    "gold": 1800,
+                    "gems": 180
+                },
+                "Laboratory": {
+                    "gold": 2200,
+                    "gems": 220
+                },
+                "Resource Storage": {
+                    "gold": 3000,
+                    "gems": 300
+                }
+            }
+        },
+        "siang": {
+            "Biasa": {
+                "Archer Tower": {
+                    "gold": 1000,
+                    "gems": 100
+                },
+                "Cannon": {
+                    "gold": 800,
+                    "gems": 80
+                },
+                "Mortar": {
+                    "gold": 1200,
+                    "gems": 120
+                },
+                "Wizard Tower": {
+                    "gold": 1500,
+                    "gems": 150
+                },
+                "Bomb Tower": {
+                    "gold": 2500,
+                    "gems": 250
+                },
+                "Air Sweeper": {
+                    "gold": 3000,
+                    "gems": 300
+                }
+            },
+            "VIP": {
+                "X-Bow": {
+                    "gold": 3000,
+                    "gems": 300
+                },
+                "Inferno Tower": {
+                    "gold": 5000,
+                    "gems": 500
+                },
+                "Giant Bomb": {
+                    "gold": 2000,
+                    "gems": 200
+                },
+                "Tesla": {
+                    "gold": 2500,
+                    "gems": 250
+                },
+                "Eagle Artillery": {
+                    "gold": 6000,
+                    "gems": 600
+                },
+                "Scattershot": {
+                    "gold": 9000,
+                    "gems": 900
+                }
+            }
+        },
+        "malam": {
+            "Biasa": {
+                "Wall Segment": {
+                    "gold": 300,
+                    "gems": 30
+                },
+                "Bomb": {
+                    "gold": 100,
+                    "gems": 10
+                },
+                "Spring Trap": {
+                    "gold": 400,
+                    "gems": 40
+                },
+                "Air Bomb": {
+                    "gold": 500,
+                    "gems": 50
+                },
+                "Giant Bomb": {
+                    "gold": 700,
+                    "gems": 70
+                },
+                "Tornado Trap": {
+                    "gold": 900,
+                    "gems": 90
+                }
+            },
+            "VIP": {
+                "Eagle Artillery": {
+                    "gold": 7000,
+                    "gems": 700
+                },
+                "Scattershot": {
+                    "gold": 9000,
+                    "gems": 900
+                },
+                "Super Wall Breaker": {
+                    "gold": 4000,
+                    "gems": 400
+                },
+                "Dragon": {
+                    "gold": 6000,
+                    "gems": 600
+                },
+                "Inferno Dragon": {
+                    "gold": 8000,
+                    "gems": 800
+                },
+                "Royal Champion": {
+                    "gold": 11000,
+                    "gems": 1100
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "accounts": {
+        "yardan": {
+            "password": "yardan123",
+            "role": "VIP",
+            "locked": false,
+            "attempts": 0,
+            "gems": 1300,
+            "gold": 0
+        },
+        "raditya": {
+            "password": "raditya123",
+            "role": "VIP",
+            "locked": false,
+            "attempts": 0,
+            "gems": 100,
+            "gold": 5000
+        },
+        "rafi": {
+            "password": "rafi123",
+            "role": "VIP",
+            "locked": false,
+            "attempts": 0,
+            "gems": 600,
+            "gold": 15000
+        },
+        "yardanrdtya": {
+            "password": "yardanrdtya051206",
+            "role": "VIP",
+            "locked": false,
+            "attempts": 3,
+            "gems": 100,
+            "gold": 0
+        },
+        "pecco": {
+            "password": "pecco63",
+            "role": "VIP",
+            "locked": false,
+            "attempts": 0,
+            "gems": 100,
+            "gold": 0
+        },
+        "manusia": {
+            "password": "manusia123",
+            "role": "VIP",
+            "locked": false,
+            "attempts": 0,
+            "gems": 100,
+            "gold": 5000
+        },
+        "hewan": {
+            "password": "hewan123",
+            "role": "Biasa",
+            "locked": false,
+            "attempts": 0,
+            "gems": 100,
+            "gold": 5000
+        },
+        "daus": {
+            "password": "daus123",
+            "role": "Biasa",
+            "locked": false,
+            "attempts": 0,
+            "gems": 100,
+            "gold": 5000
+        },
+        "marc": {
+            "password": "marc93",
+            "role": "Biasa",
+            "locked": false,
+            "attempts": 0,
+            "gems": 100,
+            "gold": 5000
+        }
+    }
+}
